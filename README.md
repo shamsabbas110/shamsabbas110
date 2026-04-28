@@ -69,9 +69,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Other        1 hr 16 mins          █████████▒░░░░░░░░░░░░░░░   36.93 %
+JavaScript   1 hr 23 mins          ███████████▓░░░░░░░░░░░░░   47.03 %
+JSON         23 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Bash         22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+TSConfig     14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Other        12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 
 <!--END_SECTION:waka-->
